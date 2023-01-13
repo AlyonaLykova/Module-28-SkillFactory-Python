@@ -22,7 +22,7 @@ https://docs.google.com/document/d/1oh0E5N5eMAVUQk7BJKyohjgXUqoFvOAo/edit?usp=sh
 эквивалентное разбиение, 
 анализ граничных значений, 
 таблица принятия решений, 
-диаграмма перехода состояния http://joxi.ru/DmBk8Z7I68x652 
+диаграмма перехода состояния http://joxi.ru/DmBk8Z7I68x652 ,
 попарное тестирование (Pairwise) http://joxi.ru/D2Ppzd6UWaRRZ2.
 
 • Отчет создан с помощью инструмента Google-таблицы: https://docs.google.com/spreadsheets/d/1pwe6vpBN_D2k-BC2SJDaNFJypjcTexI-shXhIOLdAuY/edit?usp=sharing.
